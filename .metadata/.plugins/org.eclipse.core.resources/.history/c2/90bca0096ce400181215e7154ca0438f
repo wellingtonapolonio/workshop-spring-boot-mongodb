@@ -1,0 +1,5 @@
+package com.wellingtonapolonio.workshopmongo.resources;
+
+public class UserResource {
+
+}
